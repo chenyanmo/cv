@@ -63,9 +63,9 @@ Shadowsocks多用户的一个前端。并在Debian下，使用Nginx,Mysql,superv
 
 ###### t.cn网址在线缩短
 
-Demo https://demo.yekuba.com/tcn-web/
+基于新浪微博API使用PHP开发的t.cn网址在线缩短/还原系统。
 
-###etc
+Demo https://demo.yekuba.com/tcn-web/ 
 
  
 
