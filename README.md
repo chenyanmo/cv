@@ -20,9 +20,11 @@
 #### 基础技能
 
 * 使用PHP进行开发
+* 了解HTML/CSS/JS
 * 使用Google解决各种问题
-* LNMP环境搭建使用配置 
-* 熟悉Debian,ArchLinux,OS X系统,
+* LNMP环境搭建使用配置
+* 熟悉Debian,ArchLinux,OS X系统
+* 熟悉Linux下SSL,supervisor的配置
 * 使用Git
 * 阅读相关英文文档
 
@@ -32,7 +34,7 @@
 
 ### 实践 ###
 
-* 在VPS上搭建个人博客以及一个论坛并维护至今
+* 在VPS上搭建维护个人博客
 * 14年8月在福清亿通网络维护阿里云上的一个vps以及使用PHP进行相关开发维护
 
 #### Works ###
