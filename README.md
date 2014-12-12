@@ -39,12 +39,30 @@
 
 #### Works ###
 ######BootDown
+项目地址: https://github.com/orvice/bootdown
+
 基于PHP+MySQL的一个下载管理系统。
-######SS-web
+######ss-panel
+
+项目地址: https://github.com/orvice/ss-panel
+
 Shadowsocks多用户的一个前端。并在Debian下，使用Nginx,Mysql,supervisor,运行一个实例维护至今，已经有1700个用户。[Demo](https://cattt.com)
+
 ######URL-shorter
+项目地址: https://github.com/orvice/url-shorter
+
 使用PHP写的一些缩短网站服务的class。
+
 ######LNMP Shell
+项目地址: https://github.com/orvice/lnmp
+
 一个Linux下的一键安装Nginx+MariaDB+PHP的Shell脚本。
+
+###### t.cn网址在线缩短
+
+Demo https://demo.yekuba.com/tcn-web/
+
+###etc
+
  
 
