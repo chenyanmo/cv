@@ -3,7 +3,7 @@
 ### 联系方式 
 
 - 手机：155-0699-0293
-- Email：orvice@gmail.com
+- Email：i@orx.me
 - 微信：orvice
  
 
