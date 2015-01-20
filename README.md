@@ -11,7 +11,7 @@
 
  - 刘晓彬/男/1993
  - 本科/莆田学院计算机系 
- - Twitter/微博：[@orvice](https://twitter.com/orvice) [微博](http://weibo.com/orvice)
+ - Twitter/微博：[@orvice](https://twitter.com/orvice) [@theNewID](http://weibo.com/orvice)
  - 主页/博客：https://orvice.org / http://blog.orx.me
  - Github: http://github.com/orvice
 
@@ -22,9 +22,9 @@
 * 使用PHP进行开发
 * 了解HTML/CSS/JS
 * 使用Google解决各种问题
-* LNMP环境搭建使用配置
+* L NMP/AMP环境搭建使用配置 
 * 熟悉Debian,ArchLinux,OS X系统
-* 熟悉Linux下SSL,supervisor的配置
+* 熟悉Linux下SSL,supervisor,VPN的配置
 * 使用Git
 * 阅读相关英文文档
 
@@ -49,7 +49,7 @@ Demo: http://boot.zfacg.com/
 
 项目地址: https://github.com/orvice/ss-panel
 
-Shadowsocks多用户的一个前端。并在Debian下，使用Nginx,Mysql,supervisor,运行一个实例维护至今，已经有1700个用户。[Demo](https://cattt.com)
+Shadowsocks多用户的一个前端。并在Debian下，使用Nginx,Mysql,supervisor,运行一个实例维护至今，已经有3k+个用户。[Demo](https://cattt.com)
 
 ######URL-shorter
 项目地址: https://github.com/orvice/url-shorter
@@ -66,6 +66,10 @@ Shadowsocks多用户的一个前端。并在Debian下，使用Nginx,Mysql,superv
 基于新浪微博API使用PHP开发的t.cn网址在线缩短/还原系统。
 
 Demo https://demo.yekuba.com/tcn-web/ 
+
+###### CatWatch
+
+使用PHP开发的用于监控各个server的负载，内存使用，流量等使用信息。
 
  
 
