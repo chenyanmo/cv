@@ -10,6 +10,7 @@
 ### 个人信息
 
  - 刘晓彬/男/1993
+ - 祖籍: 福建厦门
  - 本科/莆田学院计算机系 
  - Twitter/微博：[@orvice](https://twitter.com/orvice) [@theNewID](http://weibo.com/orvice)
  - 主页/博客：https://orvice.org / http://blog.orx.me
