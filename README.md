@@ -21,12 +21,14 @@
 #### 基础技能
 
 * 使用PHP进行开发
-* 了解HTML/CSS/JS
+* 了解Laravel框架
+* 了解HTML/CSS/JS/jQuery/Ajax
 * 使用Google解决各种问题
-* L NMP/AMP环境搭建使用配置 
+* LNMP/AMP环境搭建使用配置 
 * 熟悉Debian,ArchLinux,OS X系统
 * 熟悉Linux下SSL,supervisor,VPN的配置
 * 使用Git
+* 了解Markdown语法
 * 阅读相关英文文档
 
 #### 语言能力 ####
@@ -35,7 +37,7 @@
 
 ### 实践 ###
 
-* 在VPS上搭建维护个人博客
+* 在VPS上搭建维护个人博客以及几个论坛
 * 14年8月在福清亿通网络维护阿里云上的一个vps以及使用PHP进行相关开发维护
 
 #### Works ###
@@ -50,7 +52,8 @@ Demo: http://boot.zfacg.com/
 
 项目地址: https://github.com/orvice/ss-panel
 
-Shadowsocks多用户的一个前端。并在Debian下，使用Nginx,Mysql,supervisor,运行一个实例维护至今，已经有3k+个用户。[Demo](https://cattt.com)
+Shadowsocks多用户的一个前端,OSX下使用PHPStorm进行开发，前端使用了Bootstrap,jQuery,Ajax. 使用了PHP的medoo类。
+并在Debian下，使用Nginx,Mysql,supervisor,运行一个实例维护至今，已经有3k+个用户。[Demo](https://cattt.com)
 
 ######URL-shorter
 项目地址: https://github.com/orvice/url-shorter
@@ -67,10 +70,4 @@ Shadowsocks多用户的一个前端。并在Debian下，使用Nginx,Mysql,superv
 基于新浪微博API使用PHP开发的t.cn网址在线缩短/还原系统。
 
 Demo https://demo.yekuba.com/tcn-web/ 
-
-###### CatWatch
-
-使用PHP开发的用于监控各个server的负载，内存使用，流量等使用信息。
-
- 
 
