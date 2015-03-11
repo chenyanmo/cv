@@ -23,6 +23,7 @@
 * 使用PHP进行开发
 * 了解Laravel框架
 * 了解HTML/CSS/JS/jQuery/Ajax
+* 了解JSON/CURL
 * 使用Google解决各种问题
 * LNMP/AMP环境搭建使用配置 
 * 熟悉Debian,ArchLinux,OS X系统
@@ -41,12 +42,7 @@
 * 14年8月在福清亿通网络维护阿里云上的一个vps以及使用PHP进行相关开发维护
 
 #### Works ###
-######BootDown
-项目地址: https://github.com/orvice/bootdown
 
-Demo: http://boot.zfacg.com/
-
-基于PHP+MySQL的一个下载管理系统。
 
 ######ss-panel
 
@@ -55,7 +51,14 @@ Demo: http://boot.zfacg.com/
 Shadowsocks多用户的一个前端,OSX下使用PHPStorm进行开发，前端使用了Bootstrap,jQuery,Ajax. 使用了PHP的medoo类。
 并在Debian下，使用Nginx,Mysql,supervisor,运行一个实例维护至今，已经有3k+个用户。[Demo](https://cattt.com)
 
-######URL-shorter
+######BootDown
+项目地址: https://github.com/orvice/bootdown
+
+Demo: http://boot.zfacg.com/
+
+基于PHP+MySQL的一个下载管理系统。
+
+######URL-Shorter
 项目地址: https://github.com/orvice/url-shorter
 
 使用PHP写的一些缩短网站服务的class。
@@ -63,7 +66,7 @@ Shadowsocks多用户的一个前端,OSX下使用PHPStorm进行开发，前端使
 ######LNMP Shell
 项目地址: https://github.com/orvice/lnmp
 
-一个Linux下的一键安装Nginx+MariaDB+PHP的Shell脚本。
+一个Linux下的一键安装Nginx+MariaDB/MySQL+PHP的Shell脚本。
 
 ###### t.cn网址在线缩短
 
