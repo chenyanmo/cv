@@ -3,8 +3,7 @@
   
 
  - 手机：+86.155-0699-0293 Email：i@orx.me  微信：orvice  
- - 刘晓彬/男/1993/福建厦门
- - 本科/莆田学院计算机系/CET4 
+ - 刘晓彬/男/1993/福建厦门 
  - Twitter：[@orvice](https://twitter.com/orvice)  - 博客：https://orvice.org  - Github: http://github.com/orvice
  
 ### 技能
@@ -14,7 +13,7 @@
 * 熟悉Debian,ArchLinux,OS X系统，以及web环境搭建
 * 使用Git,了解Markdown语法 
 
-### Works ###
+### Works 
 
 ######ss-panel
 
@@ -35,4 +34,9 @@ Shadowsocks多用户的一个前端,OSX下使用PHPStorm进行开发，前端使
 基于新浪微博API使用PHP开发的t.cn网址在线缩短/还原系统,  前端使用bootstrap框架。
 
 Demo https://demo.yekuba.com/tcn-web/ 
+
+### 教育
+
+ - 2011-2015: 本科/莆田学院计算机系 
+ - 获得证书: CET4
 
