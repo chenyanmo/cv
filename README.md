@@ -45,9 +45,11 @@ Shadowsocks多用户的一个前端,OSX下使用PHPStorm进行开发，前端使
 
 ######OzPanel
 
-使用PHP开发的一个销售SS的简单财务系统。前端使用AdminLTE模板。
+使用PHP+MySQL开发的一个销售SS的简单财务系统。包含了简单的订单系统，商品管理，订购续费等，并对接了支付宝即时到帐接口，本人负责数据库以及网站前后台的开发。
+前端使用AdminLTE模板，jQuery，相关操作使用了Ajax。
 
 ######URL-Shorter
+
 项目地址: https://github.com/orvice/url-shorter
 
 使用PHP写的一些缩短网站服务的class。
