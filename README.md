@@ -9,6 +9,8 @@
 ### 技能
 
 * 语言: PHP/Golang/Python 
+* 框架: PHP: Laravel,Slim | Golang: Revel,Gin
+* 其他技术: Mysql/MongoDB/Redis/AWS/Google API
 * OS: macOS,Archlinux,Debian
 * /etc: Git,Markdown  
 
