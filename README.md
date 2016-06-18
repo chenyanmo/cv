@@ -1,67 +1,34 @@
-个人简历 
+# 刘晓彬 
 ====
-### 联系方式 
+  
 
-- 手机：155-0699-0293
-- Email：i@orx.me
-- 微信：orvice
+ - 手机：+86.155-0699-0293 Email：i@orx.me  微信：orvice  
+ - 刘晓彬/男/1993/福建厦门 
+ - Twitter：[@orvice](https://twitter.com/orvice)  - 博客：https://orvice.org  - Github: http://github.com/orvice
  
+### 技能
 
-### 个人信息
+* 语言: PHP/Golang/Python 
+* OS: macOS,Archlinux,Debian
+* /etc: Git,Markdown  
 
- - 刘晓彬/男/1993
- - 祖籍: 福建厦门
- - 本科/莆田学院计算机系 
- - Twitter/微博：[@orvice](https://twitter.com/orvice) [@theNewID](http://weibo.com/orvice)
- - 主页/博客：https://orvice.org / http://blog.orx.me
- - Github: http://github.com/orvice
-
-### 个人能力 ###
-
-#### 基础技能
-
-* 使用PHP进行开发
-* 了解Laravel框架
-* 了解HTML/CSS/JS/jQuery/Ajax
-* 了解JSON/CURL 
-* LNMP/AMP环境搭建使用配置 
-* 熟悉Debian,ArchLinux,OS X系统
-* 熟悉Linux下SSL,supervisor,VPN的配置
-* 能在Linux环境下搭建web环境并进行维护
-* 使用Git,了解Markdown语法 
-* 使用Google解决各种问题，并能阅读相关英文文档  
-
-#### Works ###
-
+### Works 
 
 ######ss-panel
 
 项目地址: https://github.com/orvice/ss-panel
 
-Shadowsocks多用户的一个前端,OSX下使用PHPStorm进行开发，前端使用了Bootstrap,jQuery,Ajax. 使用了PHP的medoo类。
-
-[Demo](https://cattt.com): https://cattt.com
+Shadowsocks多用户的一个前端.
 
 
-######OzPanel
+######LightFish
 
-使用PHP+MySQL开发的一个销售SS的简单财务系统。包含了简单的订单系统，商品管理，订购续费等，并对接了支付宝即时到帐接口，本人负责数据库以及网站前后台的开发。
-前端使用AdminLTE模板，jQuery，相关操作使用了Ajax。
+使用Slim3等包合成的轻量PHP framework.
 
-######URL-Shorter
+ 
 
-项目地址: https://github.com/orvice/url-shorter
+### 教育
 
-使用PHP写的一些缩短网站服务的class。
-
-######LNMP Shell
-项目地址: https://github.com/orvice/lnmp
-
-一个Linux下的一键安装Nginx+MariaDB/MySQL+PHP的Shell脚本。
-
-###### t.cn网址在线缩短
-
-基于新浪微博API使用PHP开发的t.cn网址在线缩短/还原系统,  前端使用bootstrap框架。
-
-Demo https://demo.yekuba.com/tcn-web/ 
+ - 2011-2015: 本科/莆田学院计算机系 
+ - 获得证书: CET4
 
