@@ -20,12 +20,18 @@
 
 项目地址: https://github.com/orvice/ss-panel
 
-Shadowsocks多用户的一个前端.
+Shadowsocks多用户的一个前端，用于提供免费的shadowsocks等功能。基于slim3框架搭建，使用smarty作为模板引擎，使用dotenv作为配置文件，使用Laravel的Eloquent作为ORM.使用到了Redis存放用户sessions等cache.
+
+###### shadowsocks-go mu port
+
+项目地址: https://github.com/orvice/shadowsocks-go
+
+shadowsocks-go 修改的multiple user分之。可以调用ss-panel的RESTful API接口进行更新同步用户。
 
 
 ######LightFish
 
-使用Slim3等包合成的轻量PHP framework.
+使用Slim3等包组装的轻量PHP framework.
 
  
 
